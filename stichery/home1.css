@@ -1,0 +1,450 @@
+*{
+    margin: 0px;
+    padding:0px
+}
+.loginBtn{
+    padding: 15px 35px;
+    background-color: #001727;
+    color: white;
+    cursor: pointer;
+    border: none;
+    margin-left: 10rem;
+    margin-top: 28px;
+}
+.nav-link:hover,
+.nav-link:active {
+    color: red;
+}
+.img3{
+    width: 1344px;
+    margin-top: 58px;
+    margin-left: -59px;
+}
+.nav-link.active {
+    color: red;
+}
+.rounded-circle{
+    border-radius: 50%;
+}
+.nav-link:hover{
+    background: #ff91a4;
+    color:black;
+  }
+.cart{
+    background-color:#2a304d;
+    
+    padding-left: 90px;
+}
+.top{
+    padding-top: 20px;
+}
+
+.main{
+    background-color:white;
+    padding-top: 89px;
+    padding-bottom: 89px;
+}
+
+.para1{
+    color:#2a304d;;
+    padding-top: 12px;
+    padding-left: 65px;
+    line-height: 30px;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+.head{
+    font-size: 36px;
+    padding-left: 61px;
+    padding-top: 53px;
+    color: #2a304d;;
+}
+.box{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.price{
+    text-align: center;
+}
+.btn1{
+    font-size: 18px;
+    margin-left: 60px;
+    border: none;
+    border-radius: 6px;
+    height: 40px;
+    width: 133px;
+    color: #232946;
+    background-color: #e3d35a;
+    margin-top: 9px;
+
+}
+.logoHead{
+    padding-top: 38px;
+    color: #232946;
+}
+.logoHead2{
+    padding-top: 38px;
+    color: #232946;
+}
+.headone1 {
+    text-shadow: 3px 3px #232439;
+    font-size: 39px;
+    /* padding-left: 152px; */
+    padding-top: 14rem;
+    color: white;
+    padding-right: 144px;
+    display: center;
+    text-align: center;
+}
+.logoHead3{
+    padding-top: 38px;
+    color: #232946;
+}
+.logoPara1 {
+    padding-top: 12px;
+    font-size: 17px;
+    color: #232946;
+    line-height: 26px;
+    margin-left: 27px;
+    margin-right: 27px;
+}
+.logoPara2 {
+    margin-left: 25px;
+    padding-top: 12px;
+    font-size: 17px;
+    color: #232946;
+    line-height: 26px;
+    margin-right: 13px;
+}
+.logoPara3{
+    padding-left: 63px;
+    padding-top: 12px;
+    font-size: 17px;
+    color: #232946;
+    line-height: 26px;
+}
+.logoButton{
+    margin-left:-28px;
+    margin-top: 28px;
+    background-color: #232946;
+    color: #b8c1ec;
+    border: none;
+    height: 49px;
+    width: 145px;
+    border-radius: 32px;
+}
+.first{
+    text-align: center;
+    padding-left: 153px;
+    background: #b8c1ec;
+    padding-top: 75px;
+    padding-right: 20px;
+    padding-bottom: 75px;
+}
+.second{
+    text-align: center;
+    padding-left: 153px;
+    background: #eebbc3;
+    padding-top: 75px;
+    padding-right: 20px;
+    padding-bottom: 75px;
+}
+.third{
+    text-align: center;
+    padding-left: 153px;
+    background: #b8c1ec;
+    padding-top: 75px;
+    padding-right: 20px;
+    padding-bottom: 75px;
+}
+.ask{
+    padding-left: 327px;
+    color: white;
+    padding: top;
+    text-align: center;
+    padding-right: 387px;
+    padding-top: 103px;
+}
+
+.responsive1{
+        width: 100%;
+        height: auto;
+      }
+.for{
+    padding-top: 80px;
+    background-color: #232946;
+    padding-bottom: 65px;
+}
+.border-top{
+    padding-top: 27px;
+    color: #c0c3d4;
+}
+.head1{
+    padding-top: 33px;
+    margin-bottom: -74px;
+ text-align: center;
+ color: #c0c3d4;
+ font-size: 42px;
+ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form-control{
+    border: none;
+    margin-top: 27px;
+    background-color: #c0c3d4;
+}
+.head2 {
+    font-size: 34px;
+    text-align: center;
+    color: #c0c3d4;
+    padding: 43px 0px;
+}
+.form-control2{
+    margin-top: 27px;
+    padding-bottom: 64px;
+    padding-right: 236px;
+    border-radius: 7px;
+    background-color: #c0c3d4;
+    border: none;
+    padding-left: 12px;
+    padding-top: 7px;
+    font-size: 17px;
+    color: #48545f;
+}
+.btn2{
+    height: 48px;
+    /* padding: 11px 162px; */
+    border-radius: 9px;
+    margin: 12px 0px;
+    font-size: 18px;
+    background-color: #c0c3d4;
+    border: none;
+    width: 426px;
+    color: #232946;
+}
+
+.last{
+    background-color:#232946;
+    color: #c0c3d4;
+    text-align: center;
+    border-top:2px #c0c3d4;
+}
+.sbox{
+    background-color: #b8c1ec;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.boxHead1{
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 39px;
+    color:#232946;
+    font-family: monospace;
+}
+.dbox1{
+        padding-left: 140px;
+    margin-bottom: 36px;
+}
+.portionone{
+    margin-top: 56px;
+}
+.one{
+    background-color:#FFDEC7;
+
+}
+.two{
+    background-color: #FFDEC7;
+    padding-bottom: 90px;
+    padding-top: 99px;
+}
+.hhead{
+    padding-top: 167px;
+    margin: 0px 287px;
+    font-size: 60px;
+    font-family: fangsong;
+    text-align: center;
+    font-weight: bolder;
+}
+.headone {
+    font-size: 40px;
+    padding-left: 152px;
+    padding-top: 115px;
+    color: black;
+    padding-right: 144px;
+    font-family: 'Roboto,fallback-font';
+    font-weight: 900;
+}
+.paraone {
+    font-style: italic;
+    font-size: 19px;
+    padding-top: 15px;
+    padding-left: 162px;
+    color: black;
+}
+.main1{
+    
+    
+    background-repeat: no-repeat;
+}
+.btn1 {
+    font-size: 18px;
+    margin-left: 60px;
+    border: none;
+    height: 47px;
+    width: 133px;
+    color: white;
+    background-color: #001723;
+    margin-top: 9px;
+}
+.img1 {
+    margin-left: -175px;
+    /* width: 116%; */
+    height: 310px;
+    width: 500px;
+}
+@media only screen and (min-width: 280px)and (max-width:1400px) {    
+    .headone {
+        font-size: 39px;
+        padding-left: 12px;
+        padding-top: 41px;
+        color: #232946;
+        padding-right: 12px;
+    }
+    .paraone {
+        font-weight: 500;
+        font-style: italic;
+        font-size: 19px;
+        padding-top: 15px;
+        padding-left: 12px;
+        padding-right: 12px;
+        color: #232946;
+    }
+    .head {
+        font-size: 32px;
+        padding-left: 22px;
+        padding-top: 1px;
+        color: #fffffe;
+    }
+    .para1 {
+        padding-right: 4px;
+        color: #fffffe;
+        padding-top: 12px;
+        padding-left: 12px;
+        line-height: 30px;
+        font-size: 17px;
+        font-family: sans-serif;
+    }
+    .img1{
+        width: 100%;
+        margin-left: 1px;
+    }
+    .btn1 {
+            font-size: 18px;
+            margin-left: 60px;
+            border: none;
+            height: 47px;
+            width: 133px;
+            color: white;
+            background-color: #001723;
+            margin-top: 9px;
+        }
+    .logoPara1 {
+        padding-top: 12px;
+        font-size: 17px;
+        color: #232946;
+        line-height: 26px;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+    .logoPara2 {
+        margin-left: 12px;
+        padding-top: 12px;
+        font-size: 17px;
+        color: #232946;
+        line-height: 26px;
+        margin-right: 12px;
+    }
+    .logoPara3 {
+        padding-left: 12px;
+        padding-top: 12px;
+        font-size: 17px;
+        color: #232946;
+        line-height: 26px;
+        padding-right: 40px;
+    }
+}
+.headone:hover{
+    color: aqua;
+}
+/*@media only screen and (min-width: 280px){
+    .headone {
+        font-size: 39px;
+        padding-left: 12px;
+        padding-top: 41px;
+        color: #232946;
+        padding-right: 12px;
+    }
+    .paraone {
+        font-weight: 500;
+        font-style: italic;
+        font-size: 19px;
+        padding-top: 15px;
+        padding-left: 12px;
+        padding-right: 12px;
+        color: #232946;
+    }
+    .head {
+        font-size: 32px;
+        padding-left: 22px;
+        padding-top: 1px;
+        color: #fffffe;
+    }
+    .para1 {
+    padding-right: 4px;
+    color: #fffffe;
+    padding-top: 12px;
+    padding-left: 12px;
+    line-height: 30px;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+.img1{
+    width: 100%;
+    margin-left: 1px;
+}
+.btn1 {
+    font-size: 18px;
+    margin-left: 9px;
+    border: none;
+    border-radius: 6px;
+    height: 40px;
+    width: 133px;
+    color: #232946;
+    background-color: #e3d35a;
+    margin-top: 9px;
+    margin-bottom: 15px;
+}
+.logoPara1 {
+    padding-top: 12px;
+    font-size: 17px;
+    color: #232946;
+    line-height: 26px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.logoPara2 {
+    margin-left: 12px;
+    padding-top: 12px;
+    font-size: 17px;
+    color: #232946;
+    line-height: 26px;
+    margin-right: 12px;
+}
+.logoPara3 {
+    padding-left: 20px;
+    padding-top: 12px;
+    font-size: 17px;
+    color: #232946;
+    line-height: 26px;
+    padding-right: 3rem;
+}
+}

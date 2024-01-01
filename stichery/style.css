@@ -1,0 +1,83 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #232946;
+    padding: 0 10px;
+}
+.container{
+    /* border: 2px solid #b8c1ec; */
+    max-width: 500px;
+    width: 100%;
+    /* background-color: #eebbc3; */
+    margin: 20px auto;
+    padding: 30px;
+    box-shadow: 5px 5px 5px rgba(0, 0 ,0 ,0.5);
+
+}
+
+.container .form{
+    width: 100%;
+
+}
+.container .form .input-feild{
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+.container .form .input-feild lable{
+    width: 150px;
+    margin-right: 10px;
+    outline-style: none;
+}
+.container .form .input-feild .input,
+.container .form .input-feild .textarea{
+    width: 100%;
+    outline: none;
+    border: 1px solid #bbc1ec;
+    font-size: 15px;
+    padding: 8px 10px;
+    border-radius: 3px;
+    transition: all 0.5s ease;
+}
+.container .form .input-feild .textarea{
+    resize: none;
+    height: 70px;
+
+}
+.container .form .input-feild .textarea:focus,
+
+.container .form .input-feild  .input:focus{
+    border: 2px solid #eebbc3;
+    
+}
+.container .form .input-feildt .check input[type="checkbox"]
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+/* .container .form .input-feild .btn-primary{
+    width: 100%;
+    padding: 8px 10px;
+    font-size: 15px;
+    border: 0;
+    background:#232946;
+    color: #bbc1ec;
+    cursor: pointer;
+    margin: 20px auto;
+    outline: none;
+    border-radius: 10px;
+
+} */
+
+.btn-primary {
+    color: #fff;
+    background-color: #232946;
+    /* border-color: #007bff; */
+    border: none;
+}
